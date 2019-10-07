@@ -4,4 +4,4 @@ XLNET CoLab version based on: https://github.com/zihangdai/xlnet
 
 ## CONTENTS:
 
-- Notebooks: Running XLNET classifier 
+- Notebooks (sandbox) : Running XLNET classifier on IMBD dataset via Google CoLab (GPU setup!)
